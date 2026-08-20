@@ -1,0 +1,10 @@
+- [x] Make the masked-character video fill the hero composition cleanly without background overlap above the figure.
+- [x] Add a subtle pointer-responsive movement to the hero character, with reduced-motion and touch-safe behavior.
+- [x] Remove the obstructed day-marker row from the longitudinal-timeline scene.
+- [x] Rework the old-way/AURA comparison so its headline and lists cannot overlap.
+- [x] Replace low-contrast acid-green text on light backgrounds with a readable deep green treatment.
+- [x] Verify the corrected presentation at desktop and mobile viewports.
+- [x] Rebuild Scene 07 as a character looking into a mirror, with the digital-twin language integrated into the reflection.
+- [x] Place the reflection information as layered, legible interface details over the mirror surface.
+- [x] Redesign Scene 13 as a distinct, high-impact animated coming-soon finale.
+- [x] Validate the new scenes at desktop and mobile sizes with reduced-motion-safe animation behavior.
